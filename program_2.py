@@ -1,4 +1,6 @@
-
+# Ray McMillin
+# 1/31/25
+# Average age of friends code
 def average_age():
     # Get User Input
     age1 = int(input("Enter the age of friend 1: "))
