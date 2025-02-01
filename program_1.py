@@ -1,3 +1,6 @@
+# Ray McMillin
+# 1/31/25
+# Personal Information Code
 def personal_information():
     print("Name: Ray McMillin")
     print("Address: 123 Birch Lane, St. Paul, MN 55101")
